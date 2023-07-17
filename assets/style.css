@@ -57,5 +57,142 @@ nav{
   width: 250px;
   height: 250px;
 }
+.container1 button{
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.container1 img{
+  width: 40px;
+  height: 40px;
+  margin-left: 25px;
+  border-radius: 20px;
+}
+hr{
+  color: #fff;
+  height: 1px;
+}
+.home-btn{
+  background: blue;
+  color: #fff;
+  font-size: 25px;
+  font-weight: 400;
+  border-radius: 20px;
+  border: none;
+  padding: 12px;
+}
 
 /*home end*/
+
+/*about start*/
+.about-text1{
+  color: #fff;
+  font-size: 40px;
+  font-weight: 400;
+  margin-top: 80px;
+  text-decoration: underline ;
+}
+.about-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-left: 5%;
+
+}
+.about-pic{
+  width: 300px;
+    height: 400px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.about-container1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 5%;
+
+}
+.about-text2{
+color: blue;
+font-size: 30px;
+
+}
+.about-text3{
+color: #fff;
+font-size: 27px;
+padding-top: 2%;
+line-break: strict;
+line-height: 50px;
+
+}
+
+/*about end*/
+
+/*skills start*/
+.skill-container1{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.skill-container2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.skill-text1{
+  color: #fff;
+  font-size: 26px;
+  font-weight: 400;
+
+}
+.skill1{
+  color: #fff;
+  margin-left: 150px;
+  font-size: 26px;
+  font-weight: 600;
+  margin-top: 30px;
+
+}
+.subcontainer3-1 {
+      display: flex;
+      margin-left: 200px;
+      line-height: 120px;
+      margin-top: 30px;
+}
+.skill-img1{
+  flex-direction: row;
+}
+.skill-img1 img{
+  width: 60px;
+  height: 60px;
+  margin-left: 25px;
+  cursor: pointer;
+  /*align-content: center;*/
+}
+.skill-img1 img:hover{
+  transform: scaleX(0);
+  transition: 0.5s;
+}
+.skill-img1 p{
+  margin-left: 25px ;
+  color: #fff;
+  font-size: 20px;
+  margin-top: -80px;
+}
+.beginer p{
+  color:rgb(171, 162, 162);
+  font-size: 15px;
+  margin-top: -95px;
+  margin-left: 25px;
+}
+.maincon{
+  flex-direction: row;
+    display: flex;
+}
+.mainsub2 img{
+  width: 380px;
+  height: 280px;
+  margin-left: 400px;
+  margin-top: 35px;
+}
+/*skills end*/

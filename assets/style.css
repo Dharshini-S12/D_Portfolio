@@ -210,4 +210,17 @@ line-height: 50px;
   border-radius: 20px;
 }
 /*work end*/
+/*contact start*/
+.con-text{
+  color: #fff;
+  font-size: 15px;
+  font-weight: lighter;
+}
+.cont-con{
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  gap: 10px;
+}
+/*contact end*/
 

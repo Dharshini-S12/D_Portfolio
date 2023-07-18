@@ -1,13 +1,14 @@
-*{
+/**{
   margin: 0;
   padding: 0;
   box-sizing: border-box; 
   font-family: 'Poppins', sans-serif;
-}
+}*/
 body{
   background: #080420;
   color: #fff;
   width: 100%;
+  font-family: 'Poppins', sans-serif;
 }
 /*navigation starts*/
 nav{
@@ -129,70 +130,10 @@ line-height: 50px;
 /*about end*/
 
 /*skills start*/
-.skill-container1{
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-}
-.skill-container2{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
 .skill-text1{
   color: #fff;
   font-size: 26px;
   font-weight: 400;
 
-}
-.skill1{
-  color: #fff;
-  margin-left: 150px;
-  font-size: 26px;
-  font-weight: 600;
-  margin-top: 30px;
-
-}
-.subcontainer3-1 {
-      display: flex;
-      margin-left: 200px;
-      line-height: 120px;
-      margin-top: 30px;
-}
-.skill-img1{
-  flex-direction: row;
-}
-.skill-img1 img{
-  width: 60px;
-  height: 60px;
-  margin-left: 25px;
-  cursor: pointer;
-  /*align-content: center;*/
-}
-.skill-img1 img:hover{
-  transform: scaleX(0);
-  transition: 0.5s;
-}
-.skill-img1 p{
-  margin-left: 25px ;
-  color: #fff;
-  font-size: 20px;
-  margin-top: -80px;
-}
-.beginer p{
-  color:rgb(171, 162, 162);
-  font-size: 15px;
-  margin-top: -95px;
-  margin-left: 25px;
-}
-.maincon{
-  flex-direction: row;
-    display: flex;
-}
-.mainsub2 img{
-  width: 380px;
-  height: 280px;
-  margin-left: 400px;
-  margin-top: 35px;
 }
 /*skills end*/

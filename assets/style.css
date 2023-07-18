@@ -32,46 +32,53 @@ nav{
 /*home start*/
 .container{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   background: #080420;
-  gap: 15px;
+  gap: 30px;
+  margin-top: 20px;
 }
 .home-text1{
   color: #fff;
   font-size: 50px;
   font-weight: 400;
-  margin-top: 100px;
+  margin: 0 auto;
 }
 .home-text2{
-  color: #fff;
-  font-size: 50px;
-  font-weight: 400;
-  /*margin-top: 50px;*/
-}
-.web-dev{
   color: blue;
   font-size: 50px;
   font-weight: 400;
+  margin: 0 auto;
 }
+
 .home-pic{
   width: 250px;
   height: 250px;
+  margin: 0 auto;
 }
-.container1 button{
+.home-container1{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0 auto;
+  gap: 5px;
+}
+.home-container1 button{
   background: none;
   border: none;
   cursor: pointer;
+  /*justify-content: center;*/
 }
 .container1 img{
   width: 40px;
   height: 40px;
-  margin-left: 25px;
+  /*margin-left: 25px;*/
+  /*margin: 0 auto;*/
   border-radius: 20px;
 }
 hr{
   color: #fff;
-  height: 1px;
+  
 }
 .home-btn{
   background: blue;
@@ -81,6 +88,8 @@ hr{
   border-radius: 20px;
   border: none;
   padding: 12px;
+  width: fit-content;
+  margin: 0 auto;
 }
 
 /*home end*/

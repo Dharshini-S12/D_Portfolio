@@ -150,4 +150,51 @@ line-height: 50px;
   font-weight: 400;
 
 }
+.skill-text2{
+  color: #fff;
+  font-size: 26px;
+  font-weight: 400;
+  /*margin-left: 20px;*/
+  margin: 0 auto;
+}
+.skill-sub{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+}
+.skill-text3{
+  color: #fff;
+  font-size: 20px;
+  font-weight: 200;
+  /*margin: 0 auto;*/
+}
+.skill-sub1{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+  margin: 0 auto;
+  /*margin-left: 50px;*/
+}
+.skill-sub2{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+  /*margin-left: 50px;*/
+}
+.skill--sub{
+  display: flex;
+  flex-direction: row;
+
+}
+.mainc{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 150px;
+}
+
+
 /*skills end*/

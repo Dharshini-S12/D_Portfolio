@@ -121,17 +121,21 @@ hr{
   flex-direction: column;
   justify-content: center;
   padding-left: 5%;
-
+  margin: 0 auto;
+ 
 }
 .about-text2{
-color: blue;
-font-size: 30px;
+    color: blue;
+    font-size: 30px;
+    font-weight: 400;
+    margin-left: 0 auto;
+  }
 
-}
+
 .about-text3{
 color: #fff;
 font-size: 27px;
-padding: 0;
+/*padding: 0;*/
 line-break: strict;
 line-height: 50px;
 

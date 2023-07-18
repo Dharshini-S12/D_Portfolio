@@ -224,3 +224,13 @@ line-height: 50px;
 }
 /*contact end*/
 
+/*footer start*/
+.foo-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: rgba(3, 8, 51, 1);
+    gap: 30px;
+  }
+
+/*footer end*/

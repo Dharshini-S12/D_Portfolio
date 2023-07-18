@@ -195,6 +195,19 @@ line-height: 50px;
   justify-content: center;
   gap: 150px;
 }
-
-
 /*skills end*/
+
+/*work start*/
+.work-text2{
+  color: #fff;
+  font-size: 20px;
+  margin: 0 auto;
+}
+.work-img{
+  width: 800px;
+  height: 400px;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+/*work end*/
+

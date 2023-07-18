@@ -236,7 +236,18 @@ line-height: 50px;
 /*footer end*/
 
 /*media query*/
-
+@media screen and (max-width: 412px){
+  .work-img 
+  {
+    width:40px;
+    height:40px;
+  }
+  .about-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
 
 
 /*media query*/

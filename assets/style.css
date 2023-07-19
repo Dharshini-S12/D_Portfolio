@@ -292,7 +292,7 @@ line-height: 50px;
     font-size: 20px;
   }
 }*/
-@media screen and (max-width: 384px){
+/*@media screen and (max-width: 384px){
   .home-text1{
     font-size: 40px;
   }
@@ -311,7 +311,7 @@ line-height: 50px;
   .about-text3{
     font-size: 20px;
   }
-}
+}*/
 @media screen and (max-width: 810px){
   .about-container{
     display: flex;
@@ -319,7 +319,7 @@ line-height: 50px;
     justify-content: center;
   }
 }
-@media screen and (max-width: 810px){
+/*@media screen and (max-width: 810px){
   .work-img 
   {
     width:350px;
@@ -328,7 +328,7 @@ line-height: 50px;
   .about-text3{
     font-size: 20px;
   }
-}
+}*/
 
 
 

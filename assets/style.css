@@ -260,7 +260,7 @@ line-height: 50px;
   }
 }
 
-@media screen and (max-width: 360px){
+/*@media screen and (max-width: 360px){
 .home-text1{
   font-size: 30px;
 }
@@ -291,7 +291,7 @@ line-height: 50px;
   .about-text3{
     font-size: 20px;
   }
-}
+}*/
 @media screen and (max-width: 384px){
   .home-text1{
     font-size: 40px;

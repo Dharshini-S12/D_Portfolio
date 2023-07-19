@@ -279,9 +279,10 @@ line-height: 50px;
     margin: 0 auto;
   }
   .about-pic{
-      width: 230px;
-      height: 320px;
-      margin: 0 auto;
+      width: 260px;
+      height: 340px;
+      margin-top: -10px;
+      margin-left: 60px;
       border-radius: 50px;
       
   }

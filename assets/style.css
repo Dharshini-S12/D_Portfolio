@@ -266,11 +266,12 @@ line-height: 50px;
   .home-pic{
     width: 150px;
     height: 150px;
+    margin-top: -15px;
   }
   .home-btn{
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 300;
-    padding: 8px;
+    padding: 10px;
     margin-top: -20px;
   }
   /*home end*/

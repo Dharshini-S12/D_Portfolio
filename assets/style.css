@@ -244,12 +244,23 @@ line-height: 50px;
 
 /*media query*/
 @media screen and (max-width: 412px){
+  /*home start*/
+  .home-text1{
+    font-size: 40px;
+  }
   .home-text3{
     color: #fff;
     font-size: 40px;
     font-weight: 400;
-    margin-left: 20px;
+    margin: 0 auto;
   }
+  .home-text2{
+    color: blue;
+    font-size: 40px;
+    font-weight: 400;
+    margin: 0 auto;
+  }
+  /*home end*/
   .work-img 
   {
     width:400px;

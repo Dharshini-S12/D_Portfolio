@@ -245,6 +245,10 @@ line-height: 50px;
 /*media query*/
 @media screen and (max-width: 412px){
   /*home start*/
+  .container{
+    justify-content: center;
+    gap: 20px;
+  }
   .home-text1{
     font-size: 40px;
   }
@@ -273,8 +277,7 @@ line-height: 50px;
       width: 230px;
       height: 320px;
       margin: 0 auto;
-      margin-top: -25px;
-      border-radius: 200px;
+      border-radius: 100px;
   }
   /*about end*/
   .work-img 

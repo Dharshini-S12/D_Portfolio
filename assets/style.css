@@ -249,16 +249,14 @@ line-height: 50px;
     font-size: 40px;
   }
   .home-text3{
-    color: #fff;
     font-size: 40px;
-    font-weight: 400;
-    margin: 0 auto;
   }
   .home-text2{
-    color: blue;
     font-size: 40px;
-    font-weight: 400;
-    margin: 0 auto;
+  }
+  .home-pic{
+    width: 200px;
+    height: 200px;
   }
   /*home end*/
   .work-img 

@@ -237,7 +237,7 @@ line-height: 50px;
 /*footer end*/
 
 /*media query*/
-/*@media screen and (max-width: 412px){
+@media screen and (max-width: 412px){
   .work-img 
   {
     width:400px;
@@ -258,7 +258,7 @@ line-height: 50px;
   .about-text3{
     font-size: 20px;
   }
-}*/
+}
 
 /*@media screen and (max-width: 360px){
 .home-text1{

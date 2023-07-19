@@ -290,11 +290,21 @@ line-height: 50px;
 /*media query*/
 @media screen and (max-width: 412px){
   /*nav*/
+  nav{
+    justify-content: center;
+    height: 40px;
+    width: 100%;
+    background: rgba(3, 8, 51, 1);
+    /*position: fixed;*/
+    gap: 15px; 
+    
+  }
+  
   .nav-div{  
     color: #fff;
     text-decoration: none;
     font-size: 20px;
-    margin: 0 auto;
+    gap: 20px;
   }
   /*nav*/
   /*home start*/

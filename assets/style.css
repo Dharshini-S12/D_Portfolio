@@ -267,13 +267,14 @@ line-height: 50px;
   /*about start*/
   .about-text1{
     font-size: 35px;
+    margin: 0 auto;
   }
   .about-pic{
       width: 230px;
       height: 320px;
       margin: 0 auto;
-      margin-top: -18px;
-      border-radius: 100px;
+      margin-top: -25px;
+      border-radius: 200px;
   }
   /*about end*/
   .work-img 

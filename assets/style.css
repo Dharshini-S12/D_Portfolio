@@ -282,7 +282,7 @@ line-height: 50px;
       width: 260px;
       height: 340px;
       margin-top: -10px;
-      margin-left: 60px;
+      margin-left: 50px;
       border-radius: 50px;
       
   }
@@ -291,6 +291,10 @@ line-height: 50px;
     margin-left: -20px;
     margin-top: -10px;
     
+    }
+    .about-text2{
+      font-size: 25px;
+      margin-left:-20px;
     }
   
   /*about end*/

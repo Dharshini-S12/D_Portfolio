@@ -264,6 +264,11 @@ line-height: 50px;
     padding: 10px;
   }
   /*home end*/
+  /*about start*/
+  .about-text1{
+    font-size: 35px;
+  }
+  /*about end*/
   .work-img 
   {
     width:400px;
@@ -285,6 +290,7 @@ line-height: 50px;
     font-size: 20px;
   }
 }
+
 
 /*@media screen and (max-width: 360px){
 .home-text1{

@@ -258,6 +258,11 @@ line-height: 50px;
     width: 200px;
     height: 200px;
   }
+  .home-btn{
+    font-size: 18px;
+    font-weight: 300;
+    padding: 10px;
+  }
   /*home end*/
   .work-img 
   {

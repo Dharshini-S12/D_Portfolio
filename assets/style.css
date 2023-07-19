@@ -44,6 +44,12 @@ nav{
   font-weight: 400;
   margin: 0 auto;
 }
+.home-text3{
+  color: #fff;
+  font-size: 50px;
+  font-weight: 400;
+  margin: 0 auto;
+}
 .home-text2{
   color: blue;
   font-size: 50px;
@@ -238,6 +244,12 @@ line-height: 50px;
 
 /*media query*/
 @media screen and (max-width: 412px){
+  .home-text3{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 400;
+    margin: 0 auto;
+  }
   .work-img 
   {
     width:400px;

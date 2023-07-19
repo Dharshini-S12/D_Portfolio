@@ -269,6 +269,11 @@ line-height: 50px;
   }
   /*home end*/
   /*about start*/
+  .about-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
   .about-text1{
     font-size: 35px;
     margin: 0 auto;
@@ -278,27 +283,28 @@ line-height: 50px;
       height: 320px;
       margin: 0 auto;
       border-radius: 50px;
+      
   }
+  .about-text3{
+    font-size: 20px;
+    margin-left: -20px;
+    margin-top: -10px;
+    
+    }
+  
   /*about end*/
   .work-img 
   {
     width:400px;
     height:200px;
   }
-  .about-container{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
+  
   .mainc{
     gap: 120px;
   }
   .nav-div a{
     font-size: 15px;
     margin-left: -10px;
-  }
-  .about-text3{
-    font-size: 20px;
   }
 }
 

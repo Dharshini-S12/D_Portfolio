@@ -272,7 +272,8 @@ line-height: 50px;
       width: 230px;
       height: 320px;
       margin: 0 auto;
-      margin-top: -10px;
+      margin-top: -18px;
+      border-radius: 100px;
   }
   /*about end*/
   .work-img 

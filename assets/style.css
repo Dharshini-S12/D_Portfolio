@@ -268,6 +268,12 @@ line-height: 50px;
   .about-text1{
     font-size: 35px;
   }
+  .about-pic{
+      width: 200px;
+      height: 320px;
+      margin: 0 auto;
+      margin-top: -10px;
+  }
   /*about end*/
   .work-img 
   {
